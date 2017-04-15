@@ -1,0 +1,10 @@
+D:\karan\identity database practices\demo\demo\bin\Debug\netcoreapp1.1\demo.deps.json
+D:\karan\identity database practices\demo\demo\bin\Debug\netcoreapp1.1\demo.runtimeconfig.json
+D:\karan\identity database practices\demo\demo\bin\Debug\netcoreapp1.1\demo.runtimeconfig.dev.json
+D:\karan\identity database practices\demo\demo\bin\Debug\netcoreapp1.1\demo.dll
+D:\karan\identity database practices\demo\demo\bin\Debug\netcoreapp1.1\demo.pdb
+D:\karan\identity database practices\demo\demo\obj\Debug\netcoreapp1.1\demo.csprojResolveAssemblyReference.cache
+D:\karan\identity database practices\demo\demo\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+D:\karan\identity database practices\demo\demo\obj\Debug\netcoreapp1.1\demo.AssemblyInfo.cs
+D:\karan\identity database practices\demo\demo\obj\Debug\netcoreapp1.1\demo.dll
+D:\karan\identity database practices\demo\demo\obj\Debug\netcoreapp1.1\demo.pdb

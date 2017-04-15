@@ -1,0 +1,44 @@
+
+@{
+    ViewData["Title"] = "MySignUp";
+}
+
+<h2>MySignUp</h2>
+<form asp-controller="Home" asp-action="MySignUp" asp-route-returnurl="@ViewData["ReturnUrl"]" method="post" class="form-horizontal">
+
+    <table border="1">
+        <tr>
+            <td colspan="2">Log in</td>
+        </tr>
+        <tr>
+            <td>
+                UserName
+            </td>
+            <td>
+                <input type="text" name="UserName"/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Password
+            </td>
+            <td>
+                <input type="password" name="Password"/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                confirm Password
+            </td>
+            <td>
+                <input type="password" />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <button type="submit">Sign up</button>
+            </td>
+        </tr>
+    </table>
+
+</form>
